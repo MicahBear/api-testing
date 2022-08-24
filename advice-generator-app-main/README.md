@@ -12,11 +12,12 @@
 ## Overview
 
 The goal of the project for me:
--Create simple UI frontend project
--GET data from API
--Render data
--Allow users to click a button to GET new advice
--Use CSS further
+
+- Create simple UI frontend project
+- GET data from API
+- Render data
+- Allow users to click a button to GET new advice
+- Use CSS further
 
 ### The challenge
 
