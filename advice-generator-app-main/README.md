@@ -44,8 +44,6 @@ Users should be able to:
 
 ### Continued development
 
--Add stored memory session
--Update CSS with some [Styled-Components](https://styled-components.com/)
--Update with [React](https://reactjs.org/)
-
-yourself when you look back on this project in the future.\*\*
+- Add stored memory session
+- Update CSS with some [Styled-Components](https://styled-components.com/)
+- Update with [React](https://reactjs.org/)
